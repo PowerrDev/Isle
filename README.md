@@ -7,6 +7,8 @@
   macOS 14+ · Apple Silicon & Intel · ~6 MB of memory · <strong>0% CPU at rest</strong> · MIT licensed
 </p>
 
+https://github.com/user-attachments/assets/742944f6-61c7-417e-8df0-ebcecbc8583b
+
 ---
 
 <p align="left">
