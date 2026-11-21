@@ -1,0 +1,5 @@
+.DS_Store
+.build/
+build/
+Scripts/
+### The Scripts folder is ignored by defaul because it simply contains an Swift file that generates the app icon. ###

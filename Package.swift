@@ -1,0 +1,15 @@
+// swift-tools-version:5.9
+import PackageDescription
+
+let package = Package(
+    name: "Isle",
+    platforms: [.macOS(.v14)],
+    targets: [
+        .executableTarget(
+            name: "Isle",
+            path: "Sources/Isle",
+            swiftSettings: [.unsafeFlags(["-Osize"])],
+            linkerSettings: [.linkedFramework("IOKit"), .linkedFramework("ServiceManagement")]
+        )
+    ]
+)
