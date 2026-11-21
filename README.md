@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  macOS 14+ · Apple Silicon & Intel · ~6 MB of memory · **0% CPU at rest**
+  macOS 14+ · Apple Silicon & Intel · ~6 MB of memory · **0% CPU at rest** · MIT licensed
 </p>
 
 ## Features
@@ -161,3 +161,7 @@ Isle collects nothing and sends nothing anywhere. The only network request it ev
 - **Players:** only Apple Music and Spotify are supported. Browsers and other players need Apple's private MediaRemote framework, which recent macOS versions block for third-party apps.
 - **Music's elapsed time** is read from the app when the card opens, so it needs the Automation permission to be accurate.
 - **Liquid Glass** requires macOS 26. Earlier versions use a classic frosted blur.
+
+## License
+
+Isle is available under the [MIT License](LICENSE). You are free to use, modify, and distribute it, including in commercial projects, as long as the copyright notice is kept.
