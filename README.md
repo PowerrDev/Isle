@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Isle</h1>
-
 <p align="center">
-  A free <strong>Alcove/Canopy</strong> replacement built for macOS.<br>
-  A Dynamic Island (or Notch) for your Mac: live activities, a currently playing music card, and a Spotlight-style search inspired by the new OLED MacBook Pro.
+  macOS 14+ · Apple Silicon & Intel · ~6 MB of memory · <strong>0% CPU at rest</strong> · MIT licensed
 </p>
 
-<p align="center">
-  macOS 14+ · Apple Silicon & Intel · ~6 MB of memory · **0% CPU at rest** · MIT licensed
+---
+
+<p align="left">
+  A free <strong>Alcove/Canopy</strong> replacement built for macOS. A Dynamic Island (or Notch) for your Mac: live activities, a currently playing music card, and a Spotlight-style search inspired by the new OLED MacBook Pro.
 </p>
 
 ## Features
